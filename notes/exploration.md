@@ -16,6 +16,12 @@ Note: the thinking narrowed too far at one point (seed → double-entry → veri
 a stock count). Verification is defensive; the systems admired here (evolution, markets, shared
 fictions) are mainly **generative**. Keep both halves in view.
 
+**Liberation** = "liberation from whatever binds." Open-ended, like the engine. Candidate bindings:
+ignorance, scarcity, the limits of a single mind, error and illusion, failures to cooperate,
+old frames of thought, domination by others. Tension: every great liberating system has also
+bound people (markets, religion, science, the internet). Open question: how does the engine stay
+liberating as it grows, and never become the thing that binds?
+
 ## 1. Starting hypotheses (the founder's)
 
 - All economically valuable work is either **information processing** or **physical work**.
