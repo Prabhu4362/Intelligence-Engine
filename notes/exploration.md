@@ -5,6 +5,17 @@ These are hypotheses, observations and open questions, kept so the pieces aren't
 
 ---
 
+## 0. The vision (founder's words)
+
+> Something that started very simple and kept evolving, compounding, eventually a universal
+> intelligence engine at civilisational level that pushes the boundaries of frontiers and
+> discovery. Collective intelligence, getting better and compounding, for **truth seeking,
+> liberation, profoundness, expanding the horizons of intelligence.**
+
+Note: the thinking narrowed too far at one point (seed → double-entry → verification → checking
+a stock count). Verification is defensive; the systems admired here (evolution, markets, shared
+fictions) are mainly **generative**. Keep both halves in view.
+
 ## 1. Starting hypotheses (the founder's)
 
 - All economically valuable work is either **information processing** or **physical work**.
