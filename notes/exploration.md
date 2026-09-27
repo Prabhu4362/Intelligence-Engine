@@ -22,6 +22,17 @@ old frames of thought, domination by others. Tension: every great liberating sys
 bound people (markets, religion, science, the internet). Open question: how does the engine stay
 liberating as it grows, and never become the thing that binds?
 
+## The broken thing, in the founder's words (first contact with real experience)
+
+> It's all there in digital records, in the cloud or my computer history. Everything has logs.
+> AI can just be persistent enough and know what I want (intent) without me saying it again and
+> again each and every time. It not doing it is frustrating. Just be my shadow and work for me.
+> Spend my money, log into my accounts, ask me questions, but have the agency to actually really help me.
+
+Parts of it: **persistence** (doesn't start from zero), **intent** (knows what I want),
+**access** (the records already exist), **agency** (acts, not just advises), **initiative**
+(asks questions), **working on my behalf** (a shadow).
+
 ## 1. Starting hypotheses (the founder's)
 
 - All economically valuable work is either **information processing** or **physical work**.
