@@ -46,6 +46,14 @@ person's intent, not only reality; earlier "reality is the only judge" was incom
 (c) Implicit intent may be learnable from reactions over time (what gets approved,
 changed, rejected or ignored), the way prices reveal preferences.
 
+**Example of implicit intent: the company P&L.** A generic agent applies textbook
+assumptions and gets it wrong. Serving intent means learning the company's own operating
+method from its records, the way a smart new hire would over weeks. Past P&Ls made by the
+team are the "answer key": each difference from the textbook reveals a hidden rule.
+Possible experiment (suggested, founder's reaction: "maybe"): rebuild a past quarter's P&L
+from raw records, compare with the team's, write down each hidden rule, see whether the
+next quarter comes out closer.
+
 ## 1. Starting hypotheses (the founder's)
 
 - All economically valuable work is either **information processing** or **physical work**.
