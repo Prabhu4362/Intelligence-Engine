@@ -33,6 +33,12 @@ Parts of it: **persistence** (doesn't start from zero), **intent** (knows what I
 **access** (the records already exist), **agency** (acts, not just advises), **initiative**
 (asks questions), **working on my behalf** (a shadow).
 
+**Would you let it spend your money?** "Yes, but with a little hesitation, and a limited sum.
+I would need it to be reliable enough." This is how people already delegate: a small limit
+that grows as trust is earned (new employees, credit limits). Possible loop, from the founder's
+own answers: record of what it did → track record → trust → higher limit → more it can do
+for you → more record. A candidate for what compounds. Not yet tested.
+
 ## 1. Starting hypotheses (the founder's)
 
 - All economically valuable work is either **information processing** or **physical work**.
