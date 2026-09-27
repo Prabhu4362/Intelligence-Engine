@@ -39,6 +39,13 @@ that grows as trust is earned (new employees, credit limits). Possible loop, fro
 own answers: record of what it did → track record → trust → higher limit → more it can do
 for you → more record. A candidate for what compounds. Not yet tested.
 
+**What is "reliable enough"?** "That it broadly serves my intent (implicit or explicit).
+If it broadly serves me, that will likely satisfy me." Notes: (a) the judge here is the
+person's intent, not only reality; earlier "reality is the only judge" was incomplete.
+(b) "Broadly": judged on the whole, not on every step; perfection isn't required.
+(c) Implicit intent may be learnable from reactions over time (what gets approved,
+changed, rejected or ignored), the way prices reveal preferences.
+
 ## 1. Starting hypotheses (the founder's)
 
 - All economically valuable work is either **information processing** or **physical work**.
